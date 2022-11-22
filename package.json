@@ -1,0 +1,23 @@
+{
+  "name": "express_katas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filius-fall/express_katas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filius-fall/express_katas/issues"
+  },
+  "homepage": "https://github.com/filius-fall/express_katas#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
